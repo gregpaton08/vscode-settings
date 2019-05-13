@@ -6,3 +6,4 @@ maelvalais.autoconf
 ms-python.python
 ms-vscode.cpptools
 PeterJausovec.vscode-docker
+twxs.cmake
