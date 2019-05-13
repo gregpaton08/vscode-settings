@@ -1,0 +1,8 @@
+alefragnani.pascal
+alefragnani.pascal-formatter
+austin.code-gnu-global
+cschlosser.doxdocgen
+maelvalais.autoconf
+ms-python.python
+ms-vscode.cpptools
+PeterJausovec.vscode-docker
