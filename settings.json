@@ -25,5 +25,9 @@
                 }
             ]
         }
+    },
+    "editor.emptySelectionClipboard": false,
+    "files.associations": {
+        "*.cnf": "properties"
     }
 }
