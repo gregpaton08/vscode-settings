@@ -29,5 +29,8 @@
     "editor.emptySelectionClipboard": false,
     "files.associations": {
         "*.cnf": "properties"
+    },
+    "[python]": {
+        "editor.tabSize": 4
     }
 }
