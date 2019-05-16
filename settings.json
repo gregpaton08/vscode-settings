@@ -32,5 +32,9 @@
     },
     "[python]": {
         "editor.tabSize": 4
+    },
+    "workbench.colorCustomizations": {
+        "editor.background": "#222222",
+        "sideBar.background": "#1e1f1c"
     }
 }
