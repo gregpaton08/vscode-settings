@@ -30,11 +30,16 @@
     "files.associations": {
         "*.cnf": "properties"
     },
+    "[cpp]": {
+        "editor.rulers": [80]
+    },
     "[python]": {
         "editor.tabSize": 4
     },
     "workbench.colorCustomizations": {
         "editor.background": "#222222",
         "sideBar.background": "#1e1f1c"
-    }
+    },
+    "editor.suggestSelection": "first",
+    "python.jediEnabled": false
 }
