@@ -31,7 +31,8 @@
         "*.cnf": "properties"
     },
     "[cpp]": {
-        "editor.rulers": [80]
+        "editor.rulers": [100],
+        "editor.defaultFormatter": "xaver.clang-format"
     },
     "[python]": {
         "editor.tabSize": 4
