@@ -31,7 +31,9 @@
     },
     "[cpp]": {
         "editor.rulers": [100],
-        "editor.defaultFormatter": "xaver.clang-format"
+        "editor.defaultFormatter": "xaver.clang-format",
+        "editor.insertSpaces": true,
+        "editor.tabSize": 4
     },
     "[python]": {
         "editor.tabSize": 4
