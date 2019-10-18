@@ -36,10 +36,18 @@
     "[python]": {
         "editor.tabSize": 4
     },
+    "[go]": {
+        "editor.insertSpaces": false,
+        "editor.tabSize": 4
+    },
+    "[rust]": {
+        "editor.tabSize": 4
+    },
     "workbench.colorCustomizations": {
-        "editor.background": "#222222",
-        "sideBar.background": "#1e1f1c"
+        // "editor.background": "#222222",
+        // "sideBar.background": "#1e1f1c"
     },
     "editor.suggestSelection": "first",
-    "python.jediEnabled": false
+    "python.jediEnabled": false,
+    "breadcrumbs.enabled": false
 }
