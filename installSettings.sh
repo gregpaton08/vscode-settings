@@ -1,11 +1,11 @@
 operation=default
-while getopts ":u:i" opt; do
+while getopts ":iu" opt; do
     case ${opt} in
-        u )
-            operation=update
-            ;;
         i )
             operation=install
+            ;;
+        u )
+            operation=update
             ;;
         /? )
             echo "Invalid Option: -$OPTARG" 1>&2
