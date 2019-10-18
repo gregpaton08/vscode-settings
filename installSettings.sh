@@ -18,12 +18,12 @@ done
 SETTINGS_FILE=~/"Library/Application Support/Code/User/settings.json"
 
 default() {
-    cp "$SETTINGS_FILE" settings.json.bak
-    cat settings.json > "$SETTINGS_FILE"
+    echo "Please choose -i to update your system settings or -u to update your saved settings in git"
 }
 
 install() {
-    echo "empty"
+    cp "$SETTINGS_FILE" settings.json.bak
+    cat settings.json > "$SETTINGS_FILE"
 }
 
 update() {
