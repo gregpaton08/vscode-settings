@@ -43,6 +43,7 @@
         "editor.tabSize": 4
     },
     "[rust]": {
+        "editor.rulers": [99],
         "editor.tabSize": 4
     },
     "workbench.colorCustomizations": {
