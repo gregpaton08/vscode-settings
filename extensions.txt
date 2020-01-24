@@ -1,7 +1,6 @@
-alefragnani.pascal
-alefragnani.pascal-formatter
 austin.code-gnu-global
 bierner.markdown-mermaid
+bungcip.better-toml
 cschlosser.doxdocgen
 maelvalais.autoconf
 ms-azuretools.vscode-docker
@@ -10,6 +9,7 @@ ms-vscode.cpptools
 ms-vscode.Go
 ms-vscode.vscode-typescript-tslint-plugin
 redhat.java
+rust-lang.rust
 stevencl.addDocComments
 twxs.cmake
 VisualStudioExptTeam.vscodeintellicode
