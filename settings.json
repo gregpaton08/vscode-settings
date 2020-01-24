@@ -17,7 +17,7 @@
         "[Monokai]": {
             "textMateRules": [
                 {
-                    "scope": "entity.name.type, entity.name.class, entity.other.inherited-class",        
+                    "scope": "entity.name.type, entity.name.class, entity.other.inherited-class",
                     "settings": {
                         "fontStyle": ""
                     }
@@ -28,6 +28,10 @@
     "editor.emptySelectionClipboard": false,
     "files.associations": {
         "*.cnf": "properties"
+    },
+    "[cmake]": {
+        "editor.insertSpaces": true,
+        "editor.tabSize": 4
     },
     "[cpp]": {
         "editor.rulers": [100],
