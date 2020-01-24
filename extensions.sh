@@ -31,6 +31,7 @@ else
 fi
 
 install() {
+    "$code" --list-extensions > extensions.txt.bak
     while read line; do
         "$code" --install-extension "$line"
     done <extensions.txt
