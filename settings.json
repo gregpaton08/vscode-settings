@@ -40,7 +40,8 @@
     },
     "[go]": {
         "editor.insertSpaces": false,
-        "editor.tabSize": 4
+        "editor.tabSize": 4,
+        "editor.formatOnSave": false
     },
     "[rust]": {
         "editor.rulers": [99],
@@ -52,5 +53,6 @@
     },
     "editor.suggestSelection": "first",
     "python.jediEnabled": false,
-    "breadcrumbs.enabled": false
+    "breadcrumbs.enabled": false,
+    "diffEditor.ignoreTrimWhitespace": false
 }
