@@ -58,5 +58,7 @@
     "editor.suggestSelection": "first",
     "python.jediEnabled": false,
     "breadcrumbs.enabled": false,
-    "diffEditor.ignoreTrimWhitespace": false
+    "diffEditor.ignoreTrimWhitespace": false,
+    "security.workspace.trust.untrustedFiles": "open",
+    "terminal.integrated.enableMultiLinePasteWarning": false
 }
