@@ -1,5 +1,9 @@
 #!/usr/bin/env bash
 
+set -o errexit
+set -o nounset
+set -o pipefail
+
 print_help() {
     echo "usage:"
     echo "$0 [install|update]"
