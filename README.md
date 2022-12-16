@@ -14,8 +14,8 @@ To update the settings file in this repo run this command.
 
 To install the settings from the repo to your local machine run this command.
 
-> **Warning**
-> This command will overwrite any existing settings. You may first want to run `./settings.sh update` and view any differences using git.
+> **WARNING**
+> This command will overwrite any existing settings. However, a copy of your existing settings will be made in this directory under the name `settings.json.bak`.
 
 ```bash
 ./settings.sh install
