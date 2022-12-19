@@ -28,7 +28,11 @@ case "$1" in
         exit 1
 esac
 
-SETTINGS_FILE=~/"Library/Application Support/Code/User/settings.json"
+if [ "$(uname)" == "Darwin" ]; then
+    SETTINGS_FILE="$HOME/Library/Application\ Support/Code/User/settings.json"
+else
+    SETTINGS_FILE="$HOME/.config/Code/User/settings.json"
+fi
 
 default() {
     echo "Please choose -i to update your system settings or -u to update your saved settings in git"
