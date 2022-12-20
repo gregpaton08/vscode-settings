@@ -29,7 +29,7 @@ case "$1" in
 esac
 
 if [ "$(uname)" == "Darwin" ]; then
-    SETTINGS_FILE="$HOME/Library/Application\ Support/Code/User/settings.json"
+    SETTINGS_FILE="$HOME/Library/Application Support/Code/User/settings.json"
 else
     SETTINGS_FILE="$HOME/.config/Code/User/settings.json"
 fi
