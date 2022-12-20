@@ -40,6 +40,11 @@
         "editor.insertSpaces": true,
         "editor.tabSize": 4
     },
+    "[c]": {
+        "editor.rulers": [100],
+        "editor.insertSpaces": true,
+        "editor.tabSize": 4
+    },
     "[python]": {
         "editor.tabSize": 4
     },
@@ -59,6 +64,7 @@
     "editor.suggestSelection": "first",
     "python.jediEnabled": false,
     "breadcrumbs.enabled": false,
+    "python.languageServer": "Default",
     "diffEditor.ignoreTrimWhitespace": false,
     "security.workspace.trust.untrustedFiles": "open",
     "terminal.integrated.enableMultiLinePasteWarning": false
