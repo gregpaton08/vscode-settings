@@ -20,3 +20,12 @@ To install the settings from the repo to your local machine run this command.
 ```bash
 ./settings.sh install
 ```
+
+### Seeing What Changed
+
+To see what settings or extensions changed you can diff the backup or your old config with the newly installed version.
+
+```bash
+git diff --no-index settings.json.bak settings.json
+git diff --no-index extensions.txt.bak extensions.txt
+```
