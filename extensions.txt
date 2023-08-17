@@ -1,6 +1,11 @@
+alefragnani.pascal
+alefragnani.pascal-formatter
+austin.code-gnu-global
+bierner.markdown-checkbox
 bierner.markdown-mermaid
 bungcip.better-toml
 cschlosser.doxdocgen
+dbaeumer.vscode-eslint
 golang.go
 maelvalais.autoconf
 ms-azuretools.vscode-docker
