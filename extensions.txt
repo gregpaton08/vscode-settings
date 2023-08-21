@@ -1,9 +1,7 @@
 alefragnani.pascal
 alefragnani.pascal-formatter
-austin.code-gnu-global
 bierner.markdown-checkbox
 bierner.markdown-mermaid
-bungcip.better-toml
 cschlosser.doxdocgen
 dbaeumer.vscode-eslint
 golang.go
@@ -22,6 +20,7 @@ redhat.java
 robocorp.robotframework-lsp
 rust-lang.rust-analyzer
 stevencl.addDocComments
+tamasfe.even-better-toml
 twxs.cmake
 VisualStudioExptTeam.intellicode-api-usage-examples
 VisualStudioExptTeam.vscodeintellicode
