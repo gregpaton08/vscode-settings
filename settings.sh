@@ -39,7 +39,7 @@ default() {
 }
 
 install() {
-    cp "$SETTINGS_FILE" settings.json.bak
+    cp "$SETTINGS_FILE" settings.json.bak || echo "WARNING: file $SETTINGS_FILE does not exist. No backup will be created."`
     cat settings.json > "$SETTINGS_FILE"
 }
 

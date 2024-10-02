@@ -5,6 +5,10 @@ cschlosser.doxdocgen
 dustypomerleau.rust-syntax
 fill-labs.dependi
 gitlab.gitlab-workflow
+alefragnani.pascal
+alefragnani.pascal-formatter
+bierner.markdown-checkbox
+dbaeumer.vscode-eslint
 golang.go
 maelvalais.autoconf
 mechatroner.rainbow-csv
