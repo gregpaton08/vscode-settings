@@ -1,14 +1,14 @@
 1yib.rust-bundle
+alefragnani.pascal
+alefragnani.pascal-formatter
 asciidoctor.asciidoctor-vscode
+bierner.markdown-checkbox
 bierner.markdown-mermaid
 cschlosser.doxdocgen
+dbaeumer.vscode-eslint
 dustypomerleau.rust-syntax
 fill-labs.dependi
 gitlab.gitlab-workflow
-alefragnani.pascal
-alefragnani.pascal-formatter
-bierner.markdown-checkbox
-dbaeumer.vscode-eslint
 golang.go
 maelvalais.autoconf
 mechatroner.rainbow-csv
@@ -35,6 +35,7 @@ redhat.java
 robocorp.robotframework-lsp
 rust-lang.rust-analyzer
 shd101wyy.markdown-preview-enhanced
+simonsiefke.svg-preview
 stevencl.adddoccomments
 streetsidesoftware.code-spell-checker
 tamasfe.even-better-toml
