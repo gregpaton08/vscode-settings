@@ -1,0 +1,102 @@
+{
+    "workbench.colorTheme": "Default Light+",
+    "workbench.statusBar.visible": true,
+    "editor.minimap.enabled": false,
+    "window.zoomLevel": 0,
+    "editor.tabSize": 2,
+    "files.exclude": {
+        "**/.git": true,
+        "**/.svn": true,
+        "**/.hg": true,
+        "**/CVS": true,
+        "**/.DS_Store": true,
+        "**/*.o": true,
+        "**/*.lo": true,
+        "**/*.la": true
+    },
+    "editor.tokenColorCustomizations": {
+        "[Monokai]": {
+            "textMateRules": [
+                {
+                    "scope": "entity.name.type, entity.name.class, entity.other.inherited-class",
+                    "settings": {
+                        "fontStyle": ""
+                    }
+                }
+            ]
+        }
+    },
+    "editor.emptySelectionClipboard": false,
+    "files.associations": {
+        "*.cnf": "properties"
+    },
+    "[cmake]": {
+        "editor.insertSpaces": true,
+        "editor.tabSize": 4
+    },
+    "[cpp]": {
+        "editor.rulers": [
+            100
+        ],
+        "editor.defaultFormatter": "xaver.clang-format",
+        "editor.insertSpaces": true,
+        "editor.tabSize": 4
+    },
+    "[c]": {
+        "editor.rulers": [
+            100
+        ],
+        "editor.insertSpaces": true,
+        "editor.tabSize": 4
+    },
+    "[python]": {
+        "editor.tabSize": 4,
+        "editor.rulers": [
+            88
+        ]
+    },
+    "[go]": {
+        "editor.insertSpaces": false,
+        "editor.tabSize": 4,
+        "editor.formatOnSave": false
+    },
+    "[rust]": {
+        "editor.rulers": [
+            100
+        ],
+        "editor.tabSize": 4,
+        "editor.inlayHints.enabled": "on"
+    },
+    "workbench.colorCustomizations": {},
+    "editor.suggestSelection": "first",
+    "python.jediEnabled": false,
+    "breadcrumbs.enabled": false,
+    "python.languageServer": "Default",
+    "diffEditor.ignoreTrimWhitespace": false,
+    "security.workspace.trust.untrustedFiles": "open",
+    "terminal.integrated.enableMultiLinePasteWarning": "never",
+    "cSpell.enableFiletypes": [
+        "md",
+        "html"
+    ],
+    "[javascript]": {
+        "editor.defaultFormatter": "vscode.typescript-language-features"
+    },
+    "[typescript]": {
+        "editor.defaultFormatter": "vscode.typescript-language-features"
+    },
+    "[json]": {
+        "editor.defaultFormatter": "vscode.json-language-features"
+    },
+    "github.copilot.enable": {
+        "*": false,
+        "plaintext": false,
+        "markdown": false,
+        "scminput": false
+    },
+    "cursor.cpp.disabledLanguages": [
+        "plaintext",
+        "markdown",
+        "scminput"
+    ]
+}
